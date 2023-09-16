@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<style>
+    #first{
+        background-color:red;
+    }
+    #second{
+        background-color:yellow;
+        color:white;
+    }
+     .mk{
+        background-color:pink;
+    }
+</style>
+<head>
+</head>
+<body>
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+   <div id="first" style="background-color:pink;">
+       hello
+   </div>
+   <div id="second">
+       hii
+   </div>
+   <div class="mk">
+       ram-ram
+   </div>
+</body>
+</html>
